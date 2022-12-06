@@ -10,6 +10,6 @@ public class AllWindowId {
 		refVar.get("file:///C:/Users/User/Downloads/MultipleWindow.html");
 		refVar.findElement(By.xpath("//input[@value='Open Food Sites']")).click();
 		System.out.println(refVar.getWindowHandles());
-		
+		//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
 }
 }
